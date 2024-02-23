@@ -1,0 +1,2 @@
+console.log("Slot Machine");
+
